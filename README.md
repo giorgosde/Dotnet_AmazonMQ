@@ -5,7 +5,9 @@ This repo is part of a series focusing on .NET/C#. This repo is meant to be publ
 #### Attention: AWS AMQ is not a free of charge service. It has a free tier though. Mind the charges.
 
 #### Stack and Features:
-.NET 6, MassTransit, DI, Async, AWS AMQ (ActiveMQ engine)
+- .NET 7 (upgraded)
+- MassTransit
+- AWS AMQ (ActiveMQ engine)
 
 #### Overview:
 - .Net WenApi contains a single POST endpoint allowing posting messages to AMQ
